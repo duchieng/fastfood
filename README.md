@@ -28,3 +28,8 @@ This is a Full-Stack Web Project done by using the Technologies- Angular (HTML, 
 - start the application server : __ng serve__
 
 3. open the browser and make this url to start __FrontEnd__ : http://localhost:4200
+
+## some ionformation for the connection : 
+
+1. utrains@utrains.test | Role : Admin    | pwd : Utrains_p@ss
+2. alain@utrains.test   | Role : Customer | pwd : Alain_p@ss
